@@ -1,0 +1,8 @@
+C:\Projects\CAdvanced\CAdvanced\bin\Debug\CAdvanced.exe.config
+C:\Projects\CAdvanced\CAdvanced\bin\Debug\CAdvanced.exe
+C:\Projects\CAdvanced\CAdvanced\bin\Debug\CAdvanced.pdb
+C:\Projects\CAdvanced\CAdvanced\obj\Debug\CAdvanced.csproj.AssemblyReference.cache
+C:\Projects\CAdvanced\CAdvanced\obj\Debug\CAdvanced.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CAdvanced\CAdvanced\obj\Debug\CAdvanced.csproj.CoreCompileInputs.cache
+C:\Projects\CAdvanced\CAdvanced\obj\Debug\CAdvanced.exe
+C:\Projects\CAdvanced\CAdvanced\obj\Debug\CAdvanced.pdb
